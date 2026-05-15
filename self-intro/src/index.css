@@ -1,0 +1,10 @@
+/* Global baseline; section styles live in portfolio.css */
+
+body {
+  margin: 0;
+}
+
+#root {
+  min-height: 100svh;
+  width: 100%;
+}
